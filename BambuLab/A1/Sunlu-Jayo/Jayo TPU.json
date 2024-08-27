@@ -1,0 +1,25 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Jayo TPU"
+    ],
+    "filament_shrink": [
+        "98.5%"
+    ],
+    "from": "User",
+    "inherits": "Bambu TPU 95A @BBL A1",
+    "is_custom_defined": "0",
+    "name": "Jayo TPU",
+    "nozzle_temperature": [
+        "225"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "pressure_advance": [
+        "0.076"
+    ],
+    "version": "1.8.0.13"
+}
